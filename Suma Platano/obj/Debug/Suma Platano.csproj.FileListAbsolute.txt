@@ -1,0 +1,56 @@
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Aplicaciones\Suma Platano\Suma Platano\bin\Debug\Suma Platano.exe.config
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Aplicaciones\Suma Platano\Suma Platano\bin\Debug\Suma Platano.exe
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Aplicaciones\Suma Platano\Suma Platano\bin\Debug\Suma Platano.pdb
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Aplicaciones\Suma Platano\Suma Platano\bin\Debug\Antlr4.Runtime.dll
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Aplicaciones\Suma Platano\Suma Platano\bin\Debug\ICSharpCode.TextEditor.dll
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Aplicaciones\Suma Platano\Suma Platano\bin\Debug\MaterialSkin.dll
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Aplicaciones\Suma Platano\Suma Platano\bin\Debug\Antlr4.Runtime.xml
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Aplicaciones\Suma Platano\Suma Platano\obj\Debug\LenguajeLexer.cs
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Aplicaciones\Suma Platano\Suma Platano\obj\Debug\LenguajeParser.cs
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Aplicaciones\Suma Platano\Suma Platano\obj\Debug\LenguajeListener.cs
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Aplicaciones\Suma Platano\Suma Platano\obj\Debug\LenguajeBaseListener.cs
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Aplicaciones\Suma Platano\Suma Platano\obj\Debug\LenguajeVisitor.cs
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Aplicaciones\Suma Platano\Suma Platano\obj\Debug\LenguajeBaseVisitor.cs
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Aplicaciones\Suma Platano\Suma Platano\obj\Debug\Suma Platano.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Aplicaciones\Suma Platano\Suma Platano\obj\Debug\Suma_Platano.FormSobreNosotros.resources
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Aplicaciones\Suma Platano\Suma Platano\obj\Debug\Suma_Platano.Properties.Resources.resources
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Aplicaciones\Suma Platano\Suma Platano\obj\Debug\Suma_Platano.SumaPlatanoForm.resources
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Aplicaciones\Suma Platano\Suma Platano\obj\Debug\Suma Platano.csproj.GenerateResource.Cache
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Aplicaciones\Suma Platano\Suma Platano\obj\Debug\Suma Platano.exe
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Aplicaciones\Suma Platano\Suma Platano\obj\Debug\Suma Platano.pdb
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Aplicaciones\Suma Platano\Suma Platano\obj\Debug\Suma Platano.csprojResolveAssemblyReference.cache
+C:\Users\Joseph Gonzalez\Downloads\Suma Platano\Suma Platano\bin\Debug\Suma Platano.exe.config
+C:\Users\Joseph Gonzalez\Downloads\Suma Platano\Suma Platano\obj\Debug\Suma Platano.exe
+C:\Users\Joseph Gonzalez\Downloads\Suma Platano\Suma Platano\obj\Debug\Suma Platano.pdb
+C:\Users\Joseph Gonzalez\Downloads\Suma Platano\Suma Platano\bin\Debug\Suma Platano.exe
+C:\Users\Joseph Gonzalez\Downloads\Suma Platano\Suma Platano\bin\Debug\Suma Platano.pdb
+C:\Users\Joseph Gonzalez\Downloads\Suma Platano\Suma Platano\bin\Debug\Antlr4.Runtime.dll
+C:\Users\Joseph Gonzalez\Downloads\Suma Platano\Suma Platano\bin\Debug\ICSharpCode.TextEditor.dll
+C:\Users\Joseph Gonzalez\Downloads\Suma Platano\Suma Platano\bin\Debug\MaterialSkin.dll
+C:\Users\Joseph Gonzalez\Downloads\Suma Platano\Suma Platano\bin\Debug\Antlr4.Runtime.xml
+C:\Users\Joseph Gonzalez\Downloads\Suma Platano\Suma Platano\obj\Debug\Suma Platano.csprojResolveAssemblyReference.cache
+C:\Users\Joseph Gonzalez\Downloads\Suma Platano\Suma Platano\obj\Debug\Suma Platano.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\Joseph Gonzalez\Downloads\Suma Platano\Suma Platano\obj\Debug\Suma_Platano.FormSobreNosotros.resources
+C:\Users\Joseph Gonzalez\Downloads\Suma Platano\Suma Platano\obj\Debug\Suma_Platano.Properties.Resources.resources
+C:\Users\Joseph Gonzalez\Downloads\Suma Platano\Suma Platano\obj\Debug\Suma_Platano.SumaPlatanoForm.resources
+C:\Users\Joseph Gonzalez\Downloads\Suma Platano\Suma Platano\obj\Debug\Suma Platano.csproj.GenerateResource.Cache
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Suma Platano\Suma Platano\bin\Debug\Suma Platano.exe.config
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Suma Platano\Suma Platano\obj\Debug\Suma Platano.exe
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Suma Platano\Suma Platano\obj\Debug\Suma Platano.pdb
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Suma Platano\Suma Platano\bin\Debug\Suma Platano.exe
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Suma Platano\Suma Platano\bin\Debug\Suma Platano.pdb
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Suma Platano\Suma Platano\bin\Debug\Antlr4.Runtime.dll
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Suma Platano\Suma Platano\bin\Debug\MaterialSkin.dll
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Suma Platano\Suma Platano\bin\Debug\Antlr4.Runtime.xml
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Suma Platano\Suma Platano\obj\Debug\LenguajeLexer.cs
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Suma Platano\Suma Platano\obj\Debug\LenguajeParser.cs
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Suma Platano\Suma Platano\obj\Debug\LenguajeListener.cs
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Suma Platano\Suma Platano\obj\Debug\LenguajeBaseListener.cs
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Suma Platano\Suma Platano\obj\Debug\LenguajeVisitor.cs
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Suma Platano\Suma Platano\obj\Debug\LenguajeBaseVisitor.cs
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Suma Platano\Suma Platano\obj\Debug\Suma Platano.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Suma Platano\Suma Platano\obj\Debug\Suma_Platano.FormSobreNosotros.resources
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Suma Platano\Suma Platano\obj\Debug\Suma_Platano.Properties.Resources.resources
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Suma Platano\Suma Platano\obj\Debug\Suma_Platano.SumaPlatanoForm.resources
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Suma Platano\Suma Platano\obj\Debug\Suma Platano.csproj.GenerateResource.Cache
+C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Suma Platano\Suma Platano\obj\Debug\Suma Platano.csprojResolveAssemblyReference.cache
