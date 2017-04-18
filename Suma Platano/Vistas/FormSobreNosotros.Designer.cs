@@ -33,7 +33,6 @@
             this.materialLabel2 = new MaterialSkin.Controls.MaterialLabel();
             this.materialLabel3 = new MaterialSkin.Controls.MaterialLabel();
             this.materialLabel4 = new MaterialSkin.Controls.MaterialLabel();
-            this.materialLabel5 = new MaterialSkin.Controls.MaterialLabel();
             this.btnCerrar = new MaterialSkin.Controls.MaterialRaisedButton();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -71,12 +70,12 @@
             this.materialLabel3.Depth = 0;
             this.materialLabel3.Font = new System.Drawing.Font("Roboto", 11F);
             this.materialLabel3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(222)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.materialLabel3.Location = new System.Drawing.Point(102, 218);
+            this.materialLabel3.Location = new System.Drawing.Point(92, 218);
             this.materialLabel3.MouseState = MaterialSkin.MouseState.HOVER;
             this.materialLabel3.Name = "materialLabel3";
-            this.materialLabel3.Size = new System.Drawing.Size(92, 19);
+            this.materialLabel3.Size = new System.Drawing.Size(113, 19);
             this.materialLabel3.TabIndex = 2;
-            this.materialLabel3.Text = "Lareen Melo";
+            this.materialLabel3.Text = "Danna Capellán";
             // 
             // materialLabel4
             // 
@@ -90,19 +89,6 @@
             this.materialLabel4.Size = new System.Drawing.Size(113, 19);
             this.materialLabel4.TabIndex = 2;
             this.materialLabel4.Text = "Emanuel Pujols";
-            // 
-            // materialLabel5
-            // 
-            this.materialLabel5.AutoSize = true;
-            this.materialLabel5.Depth = 0;
-            this.materialLabel5.Font = new System.Drawing.Font("Roboto", 11F);
-            this.materialLabel5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(222)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.materialLabel5.Location = new System.Drawing.Point(104, 268);
-            this.materialLabel5.MouseState = MaterialSkin.MouseState.HOVER;
-            this.materialLabel5.Name = "materialLabel5";
-            this.materialLabel5.Size = new System.Drawing.Size(88, 19);
-            this.materialLabel5.TabIndex = 2;
-            this.materialLabel5.Text = "Kevin Curiel";
             // 
             // btnCerrar
             // 
@@ -136,7 +122,6 @@
             this.ClientSize = new System.Drawing.Size(297, 347);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.btnCerrar);
-            this.Controls.Add(this.materialLabel5);
             this.Controls.Add(this.materialLabel4);
             this.Controls.Add(this.materialLabel3);
             this.Controls.Add(this.materialLabel2);
@@ -160,7 +145,6 @@
         private MaterialSkin.Controls.MaterialLabel materialLabel2;
         private MaterialSkin.Controls.MaterialLabel materialLabel3;
         private MaterialSkin.Controls.MaterialLabel materialLabel4;
-        private MaterialSkin.Controls.MaterialLabel materialLabel5;
         private MaterialSkin.Controls.MaterialRaisedButton btnCerrar;
         private System.Windows.Forms.PictureBox pictureBox1;
     }
