@@ -1,6 +1,6 @@
-C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Suma Platano\Suma Platano\obj\Debug\LenguajeLexer.cs
-C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Suma Platano\Suma Platano\obj\Debug\LenguajeParser.cs
-C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Suma Platano\Suma Platano\obj\Debug\LenguajeListener.cs
-C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Suma Platano\Suma Platano\obj\Debug\LenguajeBaseListener.cs
-C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Suma Platano\Suma Platano\obj\Debug\LenguajeVisitor.cs
-C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Suma Platano\Suma Platano\obj\Debug\LenguajeBaseVisitor.cs
+C:\Users\Emanuel Pujols\Documents\Visual Studio 2015\Projects\Suma-Platano\Suma Platano\obj\Debug\LenguajeLexer.cs
+C:\Users\Emanuel Pujols\Documents\Visual Studio 2015\Projects\Suma-Platano\Suma Platano\obj\Debug\LenguajeParser.cs
+C:\Users\Emanuel Pujols\Documents\Visual Studio 2015\Projects\Suma-Platano\Suma Platano\obj\Debug\LenguajeListener.cs
+C:\Users\Emanuel Pujols\Documents\Visual Studio 2015\Projects\Suma-Platano\Suma Platano\obj\Debug\LenguajeBaseListener.cs
+C:\Users\Emanuel Pujols\Documents\Visual Studio 2015\Projects\Suma-Platano\Suma Platano\obj\Debug\LenguajeVisitor.cs
+C:\Users\Emanuel Pujols\Documents\Visual Studio 2015\Projects\Suma-Platano\Suma Platano\obj\Debug\LenguajeBaseVisitor.cs

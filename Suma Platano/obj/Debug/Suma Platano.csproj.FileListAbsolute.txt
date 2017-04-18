@@ -54,3 +54,23 @@ C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de softw
 C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Suma Platano\Suma Platano\obj\Debug\Suma_Platano.SumaPlatanoForm.resources
 C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Suma Platano\Suma Platano\obj\Debug\Suma Platano.csproj.GenerateResource.Cache
 C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Suma Platano\Suma Platano\obj\Debug\Suma Platano.csprojResolveAssemblyReference.cache
+C:\Users\Emanuel Pujols\Documents\Visual Studio 2015\Projects\Suma-Platano\Suma Platano\bin\Debug\Suma Platano.exe.config
+C:\Users\Emanuel Pujols\Documents\Visual Studio 2015\Projects\Suma-Platano\Suma Platano\obj\Debug\Suma Platano.exe
+C:\Users\Emanuel Pujols\Documents\Visual Studio 2015\Projects\Suma-Platano\Suma Platano\obj\Debug\Suma Platano.pdb
+C:\Users\Emanuel Pujols\Documents\Visual Studio 2015\Projects\Suma-Platano\Suma Platano\bin\Debug\Suma Platano.exe
+C:\Users\Emanuel Pujols\Documents\Visual Studio 2015\Projects\Suma-Platano\Suma Platano\bin\Debug\Suma Platano.pdb
+C:\Users\Emanuel Pujols\Documents\Visual Studio 2015\Projects\Suma-Platano\Suma Platano\bin\Debug\Antlr4.Runtime.dll
+C:\Users\Emanuel Pujols\Documents\Visual Studio 2015\Projects\Suma-Platano\Suma Platano\bin\Debug\MaterialSkin.dll
+C:\Users\Emanuel Pujols\Documents\Visual Studio 2015\Projects\Suma-Platano\Suma Platano\bin\Debug\Antlr4.Runtime.xml
+C:\Users\Emanuel Pujols\Documents\Visual Studio 2015\Projects\Suma-Platano\Suma Platano\obj\Debug\Suma Platano.csprojResolveAssemblyReference.cache
+C:\Users\Emanuel Pujols\Documents\Visual Studio 2015\Projects\Suma-Platano\Suma Platano\obj\Debug\LenguajeLexer.cs
+C:\Users\Emanuel Pujols\Documents\Visual Studio 2015\Projects\Suma-Platano\Suma Platano\obj\Debug\LenguajeParser.cs
+C:\Users\Emanuel Pujols\Documents\Visual Studio 2015\Projects\Suma-Platano\Suma Platano\obj\Debug\LenguajeListener.cs
+C:\Users\Emanuel Pujols\Documents\Visual Studio 2015\Projects\Suma-Platano\Suma Platano\obj\Debug\LenguajeBaseListener.cs
+C:\Users\Emanuel Pujols\Documents\Visual Studio 2015\Projects\Suma-Platano\Suma Platano\obj\Debug\LenguajeVisitor.cs
+C:\Users\Emanuel Pujols\Documents\Visual Studio 2015\Projects\Suma-Platano\Suma Platano\obj\Debug\LenguajeBaseVisitor.cs
+C:\Users\Emanuel Pujols\Documents\Visual Studio 2015\Projects\Suma-Platano\Suma Platano\obj\Debug\Suma Platano.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\Emanuel Pujols\Documents\Visual Studio 2015\Projects\Suma-Platano\Suma Platano\obj\Debug\Suma_Platano.FormSobreNosotros.resources
+C:\Users\Emanuel Pujols\Documents\Visual Studio 2015\Projects\Suma-Platano\Suma Platano\obj\Debug\Suma_Platano.Properties.Resources.resources
+C:\Users\Emanuel Pujols\Documents\Visual Studio 2015\Projects\Suma-Platano\Suma Platano\obj\Debug\Suma_Platano.SumaPlatanoForm.resources
+C:\Users\Emanuel Pujols\Documents\Visual Studio 2015\Projects\Suma-Platano\Suma Platano\obj\Debug\Suma Platano.csproj.GenerateResource.Cache

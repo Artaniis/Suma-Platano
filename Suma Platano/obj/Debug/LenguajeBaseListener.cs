@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-// Generated from C:\Users\Joseph Gonzalez\Mis archivos\INTEC\11vo trimestre\Construccion de software\Suma Platano\Suma Platano\LenguajeDirectory\Lenguaje.g4 by ANTLR 4.5.3
+// Generated from C:\Users\Emanuel Pujols\Documents\Visual Studio 2015\Projects\Suma-Platano\Suma Platano\LenguajeDirectory\Lenguaje.g4 by ANTLR 4.5.3
 
 // Unreachable code detected
 #pragma warning disable 0162
